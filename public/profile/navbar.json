@@ -1,0 +1,34 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 45,
+        "width" : 160
+    },
+    "sections": [
+        {
+            "title": "Hjem",
+            "href": "/"
+        },
+        {
+            "title": "Om",
+            "href": "/about"
+        },
+        {
+            "title": "Færdigheder",
+            "href": "/skills"
+        },
+        {
+            "title": "Uddannelse",
+            "href": "/education"
+        },
+        {
+            "title": "Erfaring",
+            "href": "/experience"
+        },
+        {
+            "title": "Projekter",
+            "href": "/projects"
+        }
+    ]
+
+}

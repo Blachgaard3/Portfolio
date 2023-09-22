@@ -1,0 +1,136 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/teaterkatten.jpg",
+            "title": "Teaterkatten",
+            "bodyText": "- Et hjemmeside koncept lavet til en cafe i Aarhus\n -  HTML, CSS og JavaScript \n - Dynamisk",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Blachgaard3/teater2"
+                }
+
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/webdoc.jpg",
+            "title": "Webdoc - Aarhus Street Food: Britt Vorre ",
+            "bodyText": " - Et gruppeprojekt om Britt vorre's historie\n - Visuel Story Telling",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Blachgaard3/streetfood.git"
+                }
+
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+    
+            ]
+        },
+        {
+            "image" : "images/projects/squash.jpg",
+            "title": "Tidligt øvelses projekt",
+            "bodyText": " - Et tidligt øvelses projekt for at teste html og css evner",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Blachgaard3/SquashEksamen.git"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Photoshop"
+
+            ]
+        },
+        {
+            "image" : "images/projects/guldægget.png",
+            "title": "Guldægget",
+            "bodyText": "- Frivilig på en filmfestival\n - SoMe ansvarlig\n - Eventplanlægning",
+            "links": [
+                {
+                    "text": "Facebook",
+                    "href": "https://www.facebook.com/Guldaegget/?locale=da_DK"
+                }
+            ],
+            "tags" : [
+                "Planlægning",
+                "SoMe",
+                "Video",
+                "Photoshop",
+                "lightroom"
+            ]
+        },
+        {
+            "image" : "images/projects/KasperJesper.jpg",
+            "title": "'Kasper, Jesper og...' Kortfilm",
+            "bodyText": "- Eksamensfilm fra SDU\n - Vinder af flere SDU Guldæg priser heriblandt **SDU's egen bedste film** \n - Producer \n - Lydmand ",
+            "links": [
+
+            ],
+            "tags" : [
+                "Produktion",
+                "Producer",
+                "Lyd design",
+                "Lydmand",
+                "Davinci Resolve"
+            ]
+        },
+        {
+            "image" : "images/projects/girduetknus.png",
+            "title": "'Gi'r du et knus' Kortfilm",
+            "bodyText": "- Højskoleprojekt\n - Producer",
+            "links": [
+                {
+                    "text": "Youtube",
+                    "href": "https://www.youtube.com/watch?v=d_nhLaiyhow&ab_channel=FILMH%C3%98JSKOLENM%C3%98N"
+                }
+            ],
+            "tags" : [
+                "Produktion",
+                "Producer",
+                "Colorgrading",
+                "Davinci resolve"
+            ]
+        },
+        {
+            "image" : "images/projects/brokencity.png",
+            "title": "'Bad Dogs and The Broken City' Kortfilm",
+            "bodyText": "- Højskoleprojekt\n - Skuespiller\n - Produktions assistent",
+            "links": [
+                {
+                    "text": "Youtube",
+                    "href": "https://www.youtube.com/watch?v=pmm-iw7rn-A&t=56s&ab_channel=FILMH%C3%98JSKOLENM%C3%98N"
+                }
+            ],
+            "tags" : [
+                "Produktion",
+                "Skuespil"
+            ]
+        },
+        {
+            "image" : "images/projects/Symphomania.jpg",
+            "title": "'Symphomania' Kortfilm",
+            "bodyText": "- Højskoleprojekt\n - Skuespiller\n - Producer",
+            "links": [
+                {
+                    "text": "Youtube",
+                    "href": "https://www.youtube.com/watch?v=Tt5pER-eJsg&ab_channel=FILMH%C3%98JSKOLENM%C3%98N"
+                }
+            ],
+            "tags" : [
+                "Produktion",
+                "Skuespil"
+            ]
+        }
+    ]
+}

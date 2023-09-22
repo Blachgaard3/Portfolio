@@ -1,0 +1,77 @@
+{
+    "education":[
+        {
+            "title": "Aug 2022 - ",
+            "cardTitle": "Videregående uddanelse",
+            "cardSubtitle":"Erhversakademi Aarhus MDU",
+            "cardDetailedText": "Frontend",
+            "icon" : {
+                "src": "images/education/logo-icon.png"
+            }
+        },
+        {
+            "title": "Sep 2021 - Jun 2022",
+            "cardTitle": "Videregående uddanelse",
+            "cardSubtitle":"Odense universitet",
+            "cardDetailedText": "Medievidenskab",
+            "icon" : {
+                "src": "images/education/logo-icon.png"
+            }
+        }, {
+            "title": "Jan 2021 - Jun 2021",
+            "cardTitle": "Højskole",
+            "cardSubtitle":"Møn Filmhøjskole",
+            "cardDetailedText": "Producer",
+            "icon" : {
+                "src": "images/education/logo-icon.png"
+            }
+        }, {
+            "title": "Aug 2020 - Dec 2020",
+            "cardTitle": "Ungdomsuddanelse",
+            "cardSubtitle":"Aarhus Hf og VUC",
+            "cardDetailedText": "Udviget HF",
+            "icon" : {
+                "src": "images/education/logo-icon.png"
+            }
+        }, {
+            "title": "Jun 2018 - Jun 2020",
+            "cardTitle": "Ungdomsuddanelse",
+            "cardSubtitle":"HF T.H langs Silkborg",
+            "cardDetailedText": "Mediefags linje",
+            "icon" : {
+                "src": "images/education/logo-icon.png"
+            }
+        }, {
+            "title": "Aug 2016 - Jun 2017",
+            "cardTitle": "Ungdomsuddanelse",
+            "cardSubtitle":"Fagteknikker Aarhus Tech",
+            "cardDetailedText": "1 års introforløb",
+            "icon" : {
+                "src": "images/education/logo-icon.png"
+            }
+        }, {
+            "title": "Aug 2014 - Jun 2015",
+            "cardTitle": "Ungdomsuddanelse",
+            "cardSubtitle":"STX Silkeborg",
+            "cardDetailedText": "Filosofi - Psykologi linje",
+            "icon" : {
+                "src": "images/education/logo-icon.png"
+            }
+        },{
+            "title": "Aug 2013 - Jun 2014",
+            "cardTitle": "10. Klasse",
+            "cardSubtitle":"Ungdomsskolen Silkborg",
+            "icon" : {
+                "src": "images/education/logo-icon.png"
+            }
+        },{
+            "title": "Aug 2003 - Jun 2013",
+            "cardTitle": "Folkeskole",
+            "cardSubtitle":"Balleskole Silkeborg",
+            "cardDetailedText": "0-9. klasse",
+            "icon" : {
+                "src": "images/education/logo-icon.png"
+            }
+        }
+    ]
+}

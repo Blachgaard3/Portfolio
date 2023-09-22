@@ -1,0 +1,52 @@
+{
+    "experiences": [
+        {
+            "title": "Køle-frys maskinoperatør",
+            "subtitle": "Arla",
+            "workType": "Fuld- deltid",
+            "workDescription": [
+                "Fuldtids arbejde når jeg ikke var under undannelse",
+                "7 år uden en sygedag.",
+                " Arbejdet har lært mig arbejdsmoral og samarbejde."
+            ],
+            "dateText": "01/2016 – Present"
+        },{
+            "title": "Frivilig eventplanlægger til Filmfestival",
+            "subtitle": "SDU Filmfestival (Guldægget)",
+            "workType": "Frivillig",
+            "workDescription": [
+                "Eventplanlægning"
+            ],
+            "dateText": "09/2021 – 06/2022"
+        },
+        {
+            "title": "Opvasker",
+            "subtitle": "Jyske Bank",
+            "workType": "Fuldtid",
+            "workDescription": [
+                "Sommerjob."
+            ],
+            "dateText": "06/2015 – 09/2015"
+        },
+        {
+            "title": "Kasse assistent",
+            "subtitle": "Netto",
+            "workType": "Deltid",
+            "workDescription": [
+                "Erfaring med Kunderelation"
+
+            ],
+            "dateText": "08/2014 – 05/2015"
+        },
+        {
+            "title": "Bilvasker",
+            "subtitle": "Skorstensfejermester Karsten Jensen",
+            "workType": "Deltid",
+            "workDescription": [
+                "Mit første arbejde som 14 årig, og jeg har arbejdet lige siden"
+
+            ],
+            "dateText": "09/2011 – 10/2014"
+        }
+    ]
+}
